@@ -9,3 +9,4 @@ Benvinguta al meu repositori de la programacio Pyhton.
 
 
 #Exercicis de Bateria 1
+[Bateria 1](bateria1.py)
