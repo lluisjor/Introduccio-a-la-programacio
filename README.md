@@ -6,3 +6,6 @@ Benvinguta al meu repositori de la programacio Pyhton.
 #Programes en python
 
 [Hello world](Helloworld.py)
+
+
+#Exercicis de Bateria 1
