@@ -15,7 +15,7 @@ Benvinguta al meu repositori de la programacio Pyhton.
 
 #Exercicis  bateria 2
 
-[Bateria 1](bateria2.py)
+[Bateria 2](bateria2.py)
 
 
 
@@ -23,4 +23,4 @@ Benvinguta al meu repositori de la programacio Pyhton.
 
 #Exercicis  bateria 16
 
-[Bateria 2](bateria_2.py)
+[Bateria 16](bateria_16.py)
