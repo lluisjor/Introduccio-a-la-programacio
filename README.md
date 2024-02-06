@@ -12,5 +12,15 @@ Benvinguta al meu repositori de la programacio Pyhton.
 
 [Bateria 1](bateria1.py)
 
+
+#Exercicis  bateria 2
+
+[Bateria 1](bateria2.py)
+
+
+
+
+
 #Exercicis  bateria 16
-[Bateria 16](bateria16.py)
+
+[Bateria 2](bateria_2.py)
