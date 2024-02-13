@@ -1,4 +1,3 @@
-num1 = float(input("Digues un numero: "))
-resulat = num1**2
-  print("El resulat es "(resultat)
-
+numero = int(input("Introdueix un número: "))
+quadrat = numero * numero
+print("El quadrat del número introduït és:", quadrat)
