@@ -1,4 +1,4 @@
-res1 = input ("Fica un numero:")
-res2 = input ("Fica un altre numero:")
-resulutat = res1 + res2 
-print(resulutat)
+num1 = int(input("Introdueix el primer número: "))
+num2 = int(input("Introduce el segundo número: "))
+
+suma = num1 + num2
