@@ -18,9 +18,6 @@ Benvinguta al meu repositori de la programacio Pyhton.
 [Bateria 2](bateria2.py)
 
 
-
-
-
 #Exercicis  bateria 16
 
 [Bateria 16](bateria_16.py)
